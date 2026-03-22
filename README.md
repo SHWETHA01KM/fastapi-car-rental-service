@@ -5,7 +5,6 @@
 This project is a FastAPI-based backend system for a Car Rental Service.
 It was developed as part of internship training to demonstrate API development skills, including API design, validation, workflows, and data handling.
 
----
 
 ## Features
 
@@ -18,17 +17,19 @@ It was developed as part of internship training to demonstrate API development s
 * Pagination for large datasets
 * Combined browse API (filter + sort + pagination)
 
----
 
 ## Project Structure
 
 fastapi-car-rental-service/
+
 ├── main.py
+
 ├── requirements.txt
+
 ├── README.md
+
 └── screenshots/
 
----
 
 ## How to Run the Project
 
@@ -44,13 +45,11 @@ uvicorn main:app --reload
 
 http://127.0.0.1:8000/docs
 
----
 
 ## Screenshots
 
 All API outputs and testing screenshots (Q1–Q20) are available in the screenshots/ folder.
 
----
 
 ## Key Learning Outcomes
 
@@ -60,19 +59,16 @@ All API outputs and testing screenshots (Q1–Q20) are available in the screensh
 * Applied filtering, sorting, and pagination
 * Tested APIs using Swagger UI
 
----
 
 ## GitHub Repository
 
 https://github.com/SHWETHA01KM/fastapi-car-rental-service
 
----
 
 ## Acknowledgement
 
 Grateful for the opportunity to learn and build this project during the internship.
 
----
 
 ## Developed By
 
