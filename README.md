@@ -48,7 +48,7 @@ http://127.0.0.1:8000/docs
 
 ## Screenshots
 
-All API outputs and testing screenshots (Q1–Q20) are available in the screenshots/ folder.
+All API outputs and testing screenshots are available in the screenshots/ folder.
 
 
 ## Key Learning Outcomes
